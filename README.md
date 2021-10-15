@@ -1,1 +1,2 @@
 # used-car-price
+In this project, I use a neural network to predict the prices of used cars based on various features. The dataset used can be found [here](https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes). Additionally, as an experiment I tried varying the learning rate to see how it affects the overall accuracy, and I tried changing the learning rate over time with a step-decay model. 
