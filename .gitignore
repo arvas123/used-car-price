@@ -2,3 +2,5 @@ data/
 archive.zip
 .gitignore
 test.py
+sample-table.txt
+newtable.txt
