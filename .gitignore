@@ -2,16 +2,15 @@ Milesper.png
 engine size.png
 tax.png
 archive.zip
-data
-gengraph
+gengraph.py
 pictures
 sample-table.txt
 cool.txt
 mape.txt
-plotit.txt
+plotit.py
 cool1.txt
 errors.txt
 newtable.txt
 rmse.txt
-test.txt
+test.py
 .gitignore
