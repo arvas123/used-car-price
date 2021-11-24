@@ -1,6 +1,17 @@
-data/
+Milesper.png
+engine size.png
+tax.png
 archive.zip
-.gitignore
-test.py
+data
+gengraph
+pictures
 sample-table.txt
+cool.txt
+mape.txt
+plotit.txt
+cool1.txt
+errors.txt
 newtable.txt
+rmse.txt
+test.txt
+.gitignore

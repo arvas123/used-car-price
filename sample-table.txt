@@ -1,5 +1,2 @@
-Golf	2016	Automatic	29386	Diesel	0	72.4	1.6	13700
-Polo	2020	Manual	4	Petrol	145	49.6	1.0	18480
-Passat	2018	Manual	22000	Diesel	145	68.9	2.0	16495
-Beetle	2014	Manual	43740	Petrol	200	42.8	1.4	7695
-Golf	2019	Semi-Auto	3000	Petrol	145	43.5	1.5	24999
+model	year	transmission	mileage	fuelType	tax	mpg	engineSize	price
+Caravelle   2012    Semi-Auto   212000  Diesel  325 34.4    2.0 11995
